@@ -9,7 +9,7 @@ int main() {
 
     cout<<"enter 3 sides of a triangle"<<endl;
     cout<<"Enter side a:";
-    cin>>A;
+    cin>>A ;
     cout<<"enter side b:";
     cin>>B;
     cout<<"enter side c:";
