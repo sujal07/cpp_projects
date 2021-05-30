@@ -35,5 +35,5 @@ int main(){
         default:
         cout<<"invalid";
         break;
-        }
+    }
 }
