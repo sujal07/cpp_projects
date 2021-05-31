@@ -36,4 +36,5 @@ int main(){
         cout<<"invalid";
         break;
     }
+    return 0;
 }

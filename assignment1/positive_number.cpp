@@ -10,5 +10,5 @@ int main(){
     else
     number=-number;
     cout<<"The number is "<<number;
-
+    return 0;
 }

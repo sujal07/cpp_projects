@@ -9,5 +9,5 @@ int main(){
     cout<<"The number is positive.";
     else
     cout<<"The number is negative.";
-
+    return 0;
 }
